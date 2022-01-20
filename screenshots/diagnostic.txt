@@ -1,0 +1,25 @@
+2022-01-19 18:42:26.011 3602-3602/edu.washington.activityspy I/ActivitySpy: onCreate event fired
+2022-01-19 18:42:26.011 3602-3602/edu.washington.activityspy I/ActivitySpy: savedInstanceState of onCreate is null
+2022-01-19 18:42:26.020 3602-3602/edu.washington.activityspy I/ActivitySpy: onStart event fired
+2022-01-19 18:42:26.027 3602-3602/edu.washington.activityspy I/ActivitySpy: onResume event fired
+2022-01-19 18:42:26.044 3602-3637/edu.washington.activityspy D/OpenGLRenderer: HWUI GL Pipeline
+2022-01-19 18:42:26.119 3602-3637/edu.washington.activityspy I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2022-01-19 18:42:26.120 3602-3637/edu.washington.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+2022-01-19 18:42:26.120 3602-3637/edu.washington.activityspy D/OpenGLRenderer: Swap behavior 1
+2022-01-19 18:42:26.120 3602-3637/edu.washington.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2022-01-19 18:42:26.120 3602-3637/edu.washington.activityspy D/OpenGLRenderer: Swap behavior 0
+2022-01-19 18:42:26.143 3602-3637/edu.washington.activityspy D/EGL_emulation: eglCreateContext: 0x9db050c0: maj 2 min 0 rcv 2
+2022-01-19 18:42:26.148 3602-3637/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0x9db050c0: ver 2 0 (tinfo 0x9db03280)
+2022-01-19 18:42:26.196 3602-3637/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0x9db050c0: ver 2 0 (tinfo 0x9db03280)
+2022-01-19 18:42:35.536 3602-3602/edu.washington.activityspy I/ActivitySpy: onPause event fired
+2022-01-19 18:42:35.979 3602-3637/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0x9db050c0: ver 2 0 (tinfo 0x9db03280)
+2022-01-19 18:42:36.350 3602-3602/edu.washington.activityspy I/ActivitySpy: onStop event fired
+2022-01-19 18:42:37.220 3602-3602/edu.washington.activityspy I/ActivitySpy: onRestart event fired
+2022-01-19 18:42:37.225 3602-3602/edu.washington.activityspy I/ActivitySpy: onStart event fired
+2022-01-19 18:42:37.226 3602-3602/edu.washington.activityspy I/ActivitySpy: onResume event fired
+2022-01-19 18:42:37.271 3602-3637/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0x9db050c0: ver 2 0 (tinfo 0x9db03280)
+2022-01-19 18:42:38.660 3602-3602/edu.washington.activityspy I/ActivitySpy: onPause event fired
+2022-01-19 18:42:38.797 3602-3637/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0x9db050c0: ver 2 0 (tinfo 0x9db03280)
+2022-01-19 18:42:39.053 3602-3602/edu.washington.activityspy I/ActivitySpy: onStop event fired
+2022-01-19 18:42:39.054 3602-3602/edu.washington.activityspy I/ActivitySpy: onDestroy event fired
+2022-01-19 18:42:39.054 3602-3602/edu.washington.activityspy E/ActivitySpy: We are going down, Captain!
